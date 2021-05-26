@@ -1,2 +1,2 @@
-# BookAnalyer
+# BookAnalyzer
 lets analyze some text
